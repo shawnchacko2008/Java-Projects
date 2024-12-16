@@ -1,4 +1,4 @@
-Paint - replicates microsoft plaint 
+Paint - Application which replicates microsoft plaint 
 
 
-Fractals - 
+Fractals - Collection of fractals made of recursive code that can be altered by sliders
